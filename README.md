@@ -21,13 +21,12 @@ DO NOT USE FOR EVIL PURPOSES!
 
 ##### **Functional:**
 
-1.Banner in full screen on top of all windows
-
-2. Complete blocking of the keyboard (the password can be entered by clicking on the graphic buttons)
-3. Creating a bat file to add to startup
-4. Call bsod when password attempts expire
-5. frightening animation before opening the main window (000000.gif in resources)
-6. if you restart your computer, winlocker will start instead of the desktop.
+* Banner in full screen on top of all windows
+* Complete blocking of the keyboard (the password can be entered by clicking on the graphic buttons)
+* Creating a bat file to add to startup
+* Call bsod when password attempts expire
+* frightening animation before opening the main window (000000.gif in resources)
+* if you restart your computer, winlocker will start instead of the desktop.
 
 ##### 
 
@@ -107,17 +106,13 @@ Winlocker написан на Python.
 
 #### **Функционал:**
 
-1. Баннер во весь экран поверх всех окон
+* Баннер во весь экран поверх всех окон
 
-2\. Полная блокировка клавиатуры (пароль можно ввести, нажав на графические кнопки)
-
-3\. Создание bat-файла для добавления в автозагрузку
-
-4\. Вызов bsod (экран смерти), когда истечет кол-во попыток ввода пароля.
-
-5\. Пугающая анимация перед открытием главного окна (такая же, как и в 000000.gif в разделе ресурсы)
-
-6. Если вы перезагрузите компьютер, вместо рабочего стола запустится winlocker.
+* Полная блокировка клавиатуры (пароль можно ввести, нажав на графические кнопки)
+* Создание bat-файла для добавления в автозагрузку
+* Вызов bsod (экран смерти), когда истечет кол-во попыток ввода пароля.
+* Пугающая анимация перед открытием главного окна (такая же, как и в 000000.gif в разделе ресурсы)
+* Если вы перезагрузите компьютер, вместо рабочего стола запустится winlocker.
 
  
 
@@ -175,7 +170,7 @@ Winlocker написан на Python.
 
 Также, при наличии антивирусного ПО программа может не запуститься, или запуститься с ограниченным функционалом.
 
-Этом касается как компилятора, так и итоговой программы. почему так происходит, объяснять, думаю, не стоит.
+Это касается как компилятора, так и итоговой программы. почему так происходит, объяснять, думаю, не стоит.
 
 
 
