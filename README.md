@@ -49,31 +49,25 @@ open the file Builder.exe , and follow the instructions in it.
 
 When building your application, you may encounter an error related to pyinstaller. It looks like this:
 
- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-| ***X*** **Unhandled exception in script**                                |\_ X\_|
+&nbsp;***X*** **Unhandled exception in script**
 
-|                                                                     |
+&nbsp;                                                                    
 
-| ***X*** Failed to execute script 'lock' due to unhandled exception: No    |
+&nbsp;***X*** Failed to execute script 'lock' due to unhandled exception: No    
 
-| module named 'tkinter'                                              |
+&nbsp;module named 'tkinter'                                              
 
-|                                                                     |
+&nbsp;                                                                    
 
-| Traceback (most recent call last):                                  |
+&nbsp;Traceback (most recent call last):                                  
 
-| File "lock.py", line 1, in <module>                                 |
+&nbsp;File "lock.py", line 1, in <module>                                 
 
-| ModuleNotFoundError: No module named 'tkinter'                      |
+&nbsp;ModuleNotFoundError: No module named 'tkinter'                      
 
-|                                                                     |
-
-|                                                             **Close**   |
-
-|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
-
-
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 This happens most often if you compile several files in a row, and Pyinstaller has
 
@@ -153,27 +147,23 @@ Winlocker написан на Python.
 
  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-| ***X*** **Unhandled exception in script**                                |\_ X\_|
+&nbsp;***X*** **Unhandled exception in script**
 
-|                                                                     |
+&nbsp;                                                                    
 
-| ***X*** Failed to execute script 'lock' due to unhandled exception: No    |
+&nbsp;***X*** Failed to execute script 'lock' due to unhandled exception: No    
 
-| module named 'tkinter'                                              |
+&nbsp;module named 'tkinter'                                              
 
-|                                                                     |
+&nbsp;                                                                    
 
-| Traceback (most recent call last):                                  |
+&nbsp;Traceback (most recent call last):                                  
 
-| File "lock.py", line 1, in <module>                                 |
+&nbsp;File "lock.py", line 1, in <module>                                 
 
-| ModuleNotFoundError: No module named 'tkinter'                      |
+&nbsp;ModuleNotFoundError: No module named 'tkinter'                      
 
-|                                                                     |
-
-|                                                             **Close**   |
-
-|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
+&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
