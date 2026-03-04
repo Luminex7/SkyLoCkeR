@@ -69,9 +69,7 @@ When building your application, you may encounter an error related to pyinstalle
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-This happens most often if you compile several files in a row, and Pyinstaller has
-
-a cache problem, and it loses important libraries for the code. You can fix this by
+This happens most often if you compile several files in a row, and Pyinstaller has a cache problem, and it loses important libraries for the code. You can fix this by
 
 * Restarting your PC.;
 * Reinstalling the PyInstaller component;
@@ -167,9 +165,7 @@ Winlocker написан на Python.
 
 
 
-Такое чаще всего случается, если вы компилируете несколько файлов подряд, и у Pyinstaller возникает проблема
-
-с кэшем, и он теряет важные для кода библиотеки. Исправить это можно при помощи:
+Такое чаще всего случается, если вы компилируете несколько файлов подряд, и у Pyinstaller возникает проблема с кэшем, и он теряет важные для кода библиотеки. Исправить это можно при помощи:
 
 * Перезагрузки ПК;
 * Переустановки компонента PyInstaller;
