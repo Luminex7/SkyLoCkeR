@@ -54,29 +54,25 @@ Winlocker написан на Python.
 
 
 
-&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-| ***X*** **Unhandled exception in script**                                |\_ X\_|
+ ***X*** **Unhandled exception in script**
 
-|                                                                     |
 
-| ***X*** Failed to execute script 'lock' due to unhandled exception: No    |
 
-| module named 'tkinter'                                              |
+ ***X*** Failed to execute script 'lock' due to unhandled exception: No
 
-|                                                                     |
+ module named 'tkinter'
 
-| Traceback (most recent call last):                                  |
 
-| File "lock.py", line 1, in <module>                                 |
 
-| ModuleNotFoundError: No module named 'tkinter'                      |
+ Traceback (most recent call last):
 
-|                                                                     |
+ File "lock.py", line 1, in <module>
 
-|                                                             **Close**   |
+ ModuleNotFoundError: No module named 'tkinter'
 
-|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
@@ -86,7 +82,7 @@ Winlocker написан на Python.
 
 * Перезагрузки ПК;
 * Переустановки компонента PyInstaller;
-* Переустановки всего Python. 
+* Переустановки всего Python.
 
 Один из этих способов, скорее всего поможет вам решить проблему.
 
